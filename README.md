@@ -1,2 +1,2 @@
-# moreinformation
-THIS IS A PRANK WEB
+# Information
+It is all a prank!
